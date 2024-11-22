@@ -1,6 +1,6 @@
 <div align="center">
   
-## AnyMaker: Zero-shot General Object Customization via Decoupled Dual-Level ID Injection 
+## CustAny: Customizing Anything from A Single Example
 [[Paper](https://arxiv.org/abs/2406.11643v3)] &emsp; [[Project Page](https://lingjiekong-fdu.github.io/)] &emsp;
 
 <p align="center">
