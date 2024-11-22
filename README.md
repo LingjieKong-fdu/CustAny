@@ -22,6 +22,16 @@
 
 ---
 
+###  **General ID Dataset:**
+
+To promot the research of the general object customization, we construct the first large-scale general ID dataset, named as Multi-Category ID-Consistent (MC-IDC) dataset. Our dataset consists of approximately 315,000 samples in total with more than 10,000 categories, covering various types such as human faces, animals, clothes, human-made tools, etc. Each sample consists of a reference image, a segmentation mask of the object of interest in the reference image, a target image, and a text caption of the target image. The reference image with its segmentation mask provides ID information, the text caption of the target image offers semantic-level guidance for generation, and the target image serves as the ground truth.
+
+<p align="center">
+  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/dataset.png?raw=true" width="90%">
+</p>
+
+---
+
 
 ###  **Method Framework:**
 
@@ -46,13 +56,6 @@ The CustAny exhibits outstanding capabilities of high-quality customization for 
 
 ---
 
-###  **General ID Dataset:**
-
-To promot the research of the general object customization, we construct the first large-scale general ID dataset, named as Multi-Category ID-Consistent (MC-IDC) dataset. Our dataset consists of approximately 315,000 samples in total with more than 10,000 categories, covering various types such as human faces, animals, clothes, human-made tools, etc. Each sample consists of a reference image, a segmentation mask of the object of interest in the reference image, a target image, and a text caption of the target image. The reference image with its segmentation mask provides ID information, the text caption of the target image offers semantic-level guidance for generation, and the target image serves as the ground truth.
-
-<p align="center">
-  <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/dataset.png?raw=true" width="90%">
-</p>
 
 
 
