@@ -68,8 +68,8 @@ The CustAny exhibits outstanding capabilities of high-quality customization for 
 
 <pre>
   <code>
-    Data Link: https://pan.baidu.com/s/1IM6dDhyF2iF2Hk41aidC0g ; 
-    Extraction Code: 3e12
+Data Link: https://pan.baidu.com/s/1IM6dDhyF2iF2Hk41aidC0g
+Extraction Code: 3e12
   </code>
 </pre>
 
