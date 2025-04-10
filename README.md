@@ -1,7 +1,7 @@
 <div align="center">
   
 ## CustAny: Customizing Anything from A Single Example
-[[Paper](https://arxiv.org/abs/2406.11643v3)] &emsp; [[Project Page](https://lingjiekong-fdu.github.io/)] &emsp;
+[[Paper](https://arxiv.org/abs/2406.11643v4)] &emsp; [[Project Page](https://lingjiekong-fdu.github.io/)] &emsp;
 
 <p align="center">
   <img src="https://github.com/kongkong12345/AnyMaker/blob/main/fig/k1-intro_02(2).png?raw=true" width="90%">
