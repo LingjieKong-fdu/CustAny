@@ -70,11 +70,11 @@ Additional Notes on the Dataset:
 
 
 
-(1) Due to copyright and licensing restrictions, we have made partial modifications to the dataset originally presented in our paper. These adjustments ensure compliance with intellectual property guidelines while preserving the core structure and utility of the dataset for research purposes.
+- Due to copyright and licensing restrictions, we have made partial modifications to the dataset originally presented in our paper. These adjustments ensure compliance with intellectual property guidelines while preserving the core structure and utility of the dataset for research purposes.
 
-(2) To maintain robust training performance and generalize across diverse scenarios, we have expanded the dataset by incorporating new samples. These additions follow the same rigorous construction pipeline as the original dataset, ensuring consistency in quality and methodology.
+- To maintain robust training performance and generalize across diverse scenarios, we have expanded the dataset by incorporating new samples. These additions follow the same rigorous construction pipeline as the original dataset, ensuring consistency in quality and methodology.
 
-(3) We are committed to supporting ongoing research by continuously enriching the dataset. Plans are underway to integrate additional samples in the future, which will further enhance its scope and utility. Stay tuned for updates as we strive to facilitate groundbreaking advancements in the field.
+- We are committed to supporting ongoing research by continuously enriching the dataset. Plans are underway to integrate additional samples in the future, which will further enhance its scope and utility. Stay tuned for updates as we strive to facilitate groundbreaking advancements in the field.
 
 ---
 
