@@ -1,6 +1,6 @@
 <div align="center">
   
-## CustAny: Customizing Anything from A Single Example
+## CustAny: Customizing Anything from A Single Example (CVPR2025 Oral)
 [[Paper](https://arxiv.org/abs/2406.11643v4)] &emsp; [[Project Page](https://lingjiekong-fdu.github.io/)] &emsp;
 
 <p align="center">
